@@ -9,7 +9,7 @@
 </p>
 
 <br>
-<h2>&quot; Experienced Core - Cybersecurity, SOC, Cloud Security &quot;</h2>
+<h2>      &quot; Experienced Core - Cybersecurity, SOC, Cloud Security &quot;</h2>
 <ul class="experience-list">
 <li>Hands-on experience in SOC operations, log analysis, incident investigation, vulnerability assessment, and cloud security.</li>
 <li>Experienced in SIEM monitoring using Wazuh, Sysmon, Windows Event Logs, Linux Syslogs, Apache logs, and MITRE ATT&amp;CK mapping.</li>
