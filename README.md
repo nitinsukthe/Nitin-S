@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://nsukthe.vercel.app" target="_blank">
+  <a href="https://nitinsukthe.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/▲%20VISIT-MY%20WEBSITE-black?style=for-the-badge&labelColor=555555&color=000000" alt="Visit My Website"/>
   </a>
 </p>
@@ -42,26 +42,3 @@
 
 <br>
 
-<h2 align="center">Portfolio Focus</h2>
-
-<p align="center">
-  SOC Analysis • Cloud Security • Log Analysis • Incident Response • SIEM Monitoring • AWS Security • GCP Security
-</p>
-
-<br>
-
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  HTML5 • CSS3 • JavaScript • Vercel • GitHub • Responsive Design
-</p>
-
-<br>
-
-<h2 align="center">Website Preview</h2>
-
-<p align="center">
-  <a href="https://nsukthe.vercel.app" target="_blank">
-    <strong>Open Live Portfolio Website</strong>
-  </a>
-</p>
