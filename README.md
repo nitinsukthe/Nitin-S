@@ -7,7 +7,7 @@
 </p>
 <br>
 <h2>      &quot; Experienced Core - Cybersecurity, SOC, Cloud Security &quot;</h2>
-<ul class="experience-list">```html
+<ul class="experience-list">
 <li>Hands-on cybersecurity experience across SOC operations, log analysis, incident investigation, vulnerability assessment, and cloud security.</li>
 <li>Skilled in SIEM monitoring, log correlation, threat detection, and MITRE ATT&CK mapping using Wazuh, Sysmon, Windows Event Logs, Linux Syslogs, and Apache logs.</li>
 <li>Experienced with network traffic analysis and vulnerability assessment using Wireshark, OpenVAS/Greenbone, and Kali Linux.</li>
